@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint;
 
 var engine, world;
 var canvas;
-var palyer, playerBase;
+var palyer, playerBase;              
 var computer, computerBase;
 
 
